@@ -2,6 +2,8 @@
 
 Atari Falcon030 program to display a blue gouraud cube
 
+![gouraud](https://github.com/Kochise/gouraud/blob/master/GOURAUD5.GIF?raw=true)
+
 * Hardware and software needed
 
 You need the following to get this program working :
